@@ -28,7 +28,7 @@ TEMPLATE_APP2 = os.path.join(APP2,"templates")
 SECRET_KEY = 'django-insecure-6q)$d!m#&0d2t$fg*q^haj0!*r=t=dmb7t^1od^jkaxt1w^2j3'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['*']
 
